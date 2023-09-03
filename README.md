@@ -1,4 +1,4 @@
-# Hi, I’m Ibrahima Bah. 
+# Hi, Welcom to my README profile. 
 
 I’m interested in Software Engineering. I’m currently learning Web Development. I’m looking to collaborate on Front End and Open Source Projects and Coding Challenges.
 
